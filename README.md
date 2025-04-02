@@ -26,11 +26,11 @@ npm i @pebblekit/colors
 
 ```css
 .btn {
-  font-size: 16px;
+  font-size: 15px;
   background-color: var(--color-stone-900);
   color: var(--color-stone-50);
   padding: 0.65rem 1rem;
-  border-radius: 5px;
+  border-radius: 8px;
   border: none;
   cursor: pointer;
 }
