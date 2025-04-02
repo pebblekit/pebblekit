@@ -21,12 +21,13 @@ npm i @pebblekit/colors
 ### Usage
 
 ```html
-<h1 class="heading">Hello World!</h1>
+<button class="btn">Button</button>
 ```
 
 ```css
-.heading {
-  color: var(--color-red);
+.btn {
+  background-color: var(--color-red-500)
+  color: var(--color-red-200);
 }
 ```
 
