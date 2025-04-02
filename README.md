@@ -27,9 +27,9 @@ npm i @pebblekit/colors
 ```css
 .btn {
   font-size: 16px;
-  background-color: var(--color-gray-700);
-  color: var(--color-gray-100);
-  padding: 0.7rem 1rem;
+  background-color: var(--color-stone-900);
+  color: var(--color-stone-50);
+  padding: 0.65rem 1rem;
   border-radius: 5px;
   border: none;
   cursor: pointer;
