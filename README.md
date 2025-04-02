@@ -1,5 +1,3 @@
-# PebbleKit
-
 ## Colors
 
 ### NPM
