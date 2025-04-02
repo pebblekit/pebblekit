@@ -21,6 +21,18 @@ npm i @pebblekit/colors
 ### Usage
 
 ```html
+<h1>Hello World!</h1>
+<style>
+  h1 {
+    color: var(--color-red)
+  }
+</style>
+```
+
+<!---
+### Usage
+
+```html
 <button class="btn">Button</button>
 ```
 
@@ -35,3 +47,4 @@ npm i @pebblekit/colors
   cursor: pointer;
 }
 ```
+--->
