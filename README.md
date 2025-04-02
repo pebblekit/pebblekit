@@ -26,7 +26,7 @@ npm i @pebblekit/colors
 
 ```css
 .btn {
-  background-color: var(--color-red-500)
+  background-color: var(--color-red-500);
   color: var(--color-red-200);
 }
 ```
