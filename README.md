@@ -26,7 +26,7 @@ npm i @pebblekit/colors
 
 ```css
 h1 {
-  color: var(--color-red)
+  color: var(--color-red-500)
 }
 ```
 
