@@ -21,13 +21,13 @@ npm i @pebblekit/colors
 ### Usage
 
 ```html
-<h1>Hello World!</h1>
+<h1>Hello World</h1>
+```
 
-<style>
-  h1 {
-    color: var(--color-red)
-  }
-</style>
+```css
+h1 {
+  color: var(--color-red)
+}
 ```
 
 <!---
