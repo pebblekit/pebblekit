@@ -1,15 +1,68 @@
+## Colors
+
+### NPM
+
 ```bash
-npm i @pebblekit/colors @pebblekit/layout @pebblekit/typography
+# npm
+npm i @pebblekit/colors
+```
+
+```css
+/* main.css */
+@import '@pebblekit/colors';
+```
+
+### CDN
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/@pebblekit/colors/dist/colors.min.css">
+```
+
+### Usage
+
+```html
+<h1 class="heading">Hello World!</h1>
+```
+
+```css
+.heading {
+  color: var(--color-red);
+}
+```
+
+## Colors
+
+### NPM
+
+```bash
+npm i @pebblekit/colors
 ```
 
 ```css
 @import '@pebblekit/colors';
-@import '@pebblekit/layout';
-@import '@pebblekit/typography';
 ```
+
+### CDN
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/@pebblekit/colors/dist/colors.min.css">
-<link rel="stylesheet" href="https://unpkg.com/@pebblekit/layout/dist/layout.min.css">
-<link rel="stylesheet" href="https://unpkg.com/@pebblekit/typography/dist/typography.min.css">
 ```
+
+## Colors
+
+### NPM
+
+```bash
+npm i @pebblekit/colors
+```
+
+```css
+@import '@pebblekit/colors';
+```
+
+### CDN
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/@pebblekit/colors/dist/colors.min.css">
+```
+
