@@ -15,7 +15,10 @@ npm i @pebblekit/colors
 ### CDN
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@pebblekit/colors/dist/colors.min.css">
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@pebblekit/colors/dist/colors.min.css"
+/>
 ```
 
 ### Usage
