@@ -9,13 +9,13 @@ npm i @pebblekit/colors
 
 ```css
 /* main.css */
-@import '@pebblekit/colors/dist/colors.min.css';
+@import '@pebblekit/colors';
 ```
 
 ### CDN
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@pebblekit/colors/dist/colors.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@pebblekit/colors">
 ```
 
 ### Usage
